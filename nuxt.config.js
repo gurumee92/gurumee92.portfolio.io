@@ -9,7 +9,7 @@ export default {
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - portfolio',
+    titleTemplate: '%s',
     title: '구루미의 포트폴리오',
     htmlAttrs: {
       lang: 'ko'
