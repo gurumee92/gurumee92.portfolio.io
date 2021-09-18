@@ -19,6 +19,8 @@ $ npm run generate
 
 ## 참고 사항
 
+이건 공식 문서에 따른 프로젝트에 대한 설명임.
+
 You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
 
 ### `assets`
